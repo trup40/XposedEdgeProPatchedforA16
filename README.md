@@ -4,4 +4,4 @@ All patches over "xpose_edge_pro_android16_fix_8.0.1_20260424_sign.apk" which ca
 
 Patches to make it work;
 
-* "Full screen" and "Exit full screen" fix : [patch number 1](patch_1.md).
+* More Triggers > "Full screen" and "Exit full screen" fix : [patch number 1](patch_1.md).
