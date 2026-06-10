@@ -6,3 +6,4 @@ Patches to make it work;
 
 * More Triggers > "Full screen" and "Exit full screen" fix : [patch number 1](patch_1.md).
 * More Triggers > "Full screen" and "Exit full screen" Refine! : [patch number 2](patch_2.md).
+* More Triggers > "Status bar shown" and "Navigation bar shown" fix and refactor! : [patch number 3](patch_3.md). Now they are free!
