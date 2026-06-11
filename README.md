@@ -8,6 +8,7 @@ Patches to make it work;
 * More Triggers > "Full screen" and "Exit full screen" Refine! : [patch number 2](patch_2.md).
 * More Triggers > "Status bar shown" and "Navigation bar shown" fix and refactor! : [patch number 3](patch_3.md). Now they are free!
 * More Triggers > Full screen triggers FIX! Again! : [patch number 4](patch_4.md). Now they are cool!
+* Added "Partial Screenshot"! : [patch number 5](patch_5.md). Installing [XEdgeCropHelper](https://github.com/trup40/xedgecrophelper/releases) is mandatory!
 __________
 
 Found some bugs/things/annoyances? Send some e-mails: [trup40](mailto:trup40@protonmail.com)
