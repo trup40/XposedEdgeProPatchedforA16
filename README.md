@@ -11,10 +11,11 @@ Patches to make it work;
 * Added "Partial Screenshot"! : [patch number 5](patch_5.md). Installing [XEdgeCropHelper](https://github.com/trup40/xedgecrophelper/releases) is mandatory!
 * Audio & Keyboard > Internal reflection crashes fix! : [patch number 6](patch_6.md). Safe fallbacks added!
 * "Screen rotation" freeze mechanism fix! : [patch number 7](patch_7.md). It should work now! I hope!
-* Silent "Full screenshot" bug fix on Android 16! : [patch number 8](patch-8.md). Replaced with AccessibilityService!
+* Silent "Full screenshot" bug fix on Android 16! : [patch number 8](patch_8.md). Replaced with AccessibilityService!
 __________
 
 Found some bugs/things/annoyances? Open issues or send e-mails: [trup40](mailto:trup40@protonmail.com)
+__________
 ## ☕ Donate
 
 If you find this useful and would like to support the development process, you can buy me a coffee using the crypto addresses below! 🚀
